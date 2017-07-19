@@ -1,2 +1,0 @@
-# sentimech
-GitHub Pages
