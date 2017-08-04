@@ -10,7 +10,7 @@ For any bug reports or feature requests please
 
 Author
 ------
-Sentient Mechatronics Inc. - [https://github.com/rsp](https://github.com/rsp)
+Sentient Mechatronics Inc. - [https://github.com/SentiMech](https://github.com/SentiMech)
 
 License
 -------
