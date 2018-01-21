@@ -1,4 +1,7 @@
 <svg width="170" height="110" xmlns="http://www.w3.org/2000/svg" class="canvas">
+ <defs>
+<style type="text/css">@import url('http://fonts.googleapis.com/css?family=Nunito');</style>
+</defs>
  <g>
   <title>background</title>
   <rect x="-1" y="-1" width="172" height="112" id="canvas_background" fill="none"/>
@@ -54,12 +57,12 @@
   </g>
   <g class="logo-entity" id="title" transform="translate(67,160) scale(0.30000001192092896) ">
    <g class="logo-entity-inner" id="svg_41">
-    <text class="[object Object]" font-size="80px" fill="#ffffff" font-family="Verdana" id="svg_42" y="-242" x="-140.046868">SentiMech</text>
+    <text class="[object Object]" font-size="80px" fill="#ffffff" font-family="Nunito" id="svg_42" y="-242" x="-140.046868">SentiMech</text>
    </g>
   </g>
   <g class="logo-entity" id="subtitle" transform="translate(0,250.00003051757812) scale(0.30000001192092896) ">
    <g class="logo-entity-inner" id="svg_43">
-    <text class="[object Object]" font-size="30px" fill="#ffffff" font-family="Roboto" id="svg_44" y="-481.333327" x="14">INTELLIGENT ENGINEERING SERVICES</text>
+    <text class="[object Object]" font-size="30px" fill="#ffffff" font-family="Nunito" id="svg_44" y="-481.333327" x="14">INTELLIGENT ENGINEERING SERVICES</text>
    </g>
   </g>
   <path fill="#ffffff" stroke-width="0" stroke-opacity="null" id="svg_47"/>
