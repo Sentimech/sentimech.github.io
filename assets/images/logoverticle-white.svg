@@ -54,12 +54,12 @@
   </g>
   <g class="logo-entity" id="title" transform="translate(67,160) scale(1) ">
    <g class="logo-entity-inner" id="svg_41">
-    <text class="[object Object]" font-size="80px" fill="#ffffff" font-family="Verdana" id="svg_42" y="-78" x="185">Sentimech</text>
+    <text class="[object Object]" font-size="80px" fill="#ffffff" font-family="Roboto" id="svg_42" y="-78" x="185">Sentimech</text>
    </g>
   </g>
   <g class="logo-entity" id="subtitle" transform="translate(0,250.00003051757812) scale(1) ">
    <g class="logo-entity-inner" id="svg_43">
-    <text class="[object Object]" font-size="25px" fill="#ffffff" font-family="Verdana" id="svg_44" y="-111" x="215">INTELLIGENT ENGINEERING SERVICES</text>
+    <text class="[object Object]" font-size="25px" fill="#ffffff" font-family="Roboto" id="svg_44" y="-111" x="215">INTELLIGENT ENGINEERING SERVICES</text>
    </g>
   </g>
   <path fill="#ffffff" stroke-width="0" stroke-opacity="null" fill-opacity="null" id="svg_47"/>
