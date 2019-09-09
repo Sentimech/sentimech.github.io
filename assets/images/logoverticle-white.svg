@@ -3,7 +3,7 @@
   <title>background</title>
   <rect x="-1" y="-1" width="752" height="167" id="canvas_background" fill="none"/>
  </g>
- <![CDATA[#draw\.id{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}#draw\.id text{stroke:none}]]></style>
+ <style xmlns="http://www.w3.org/1999/xhtml"><![CDATA[#draw\.id{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}#draw\.id text{stroke:none}]]></style>
  <defs><style type="text/css">@import url("https://fonts.googleapis.com/css?family=Roboto");</style></defs>
  <g>
   <title>Layer 1</title>
