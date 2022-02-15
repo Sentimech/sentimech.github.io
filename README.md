@@ -14,4 +14,4 @@ Sentimech Inc. - [https://github.com/Sentimech](https://github.com/Sentimech)
 
 License
 -------
-2021 Copyright Sentient Mechatronics Inc. You may view this source for inspiration, but you cannot replicate trademarks, the “look and feel” of the Site, its color combinations, layout, and all other graphical elements, and the copyright in and to its original content. See [Terms of Use](https://www.sentimech.com/terms-and-conditions.html) for details.
+2022 Copyright Sentient Mechatronics Inc. You may view this source for inspiration, but you cannot replicate trademarks, the “look and feel” of the Site, its color combinations, layout, and all other graphical elements, and the copyright in and to its original content. See [Terms of Use](https://www.sentimech.com/terms-and-conditions.html) for details.
