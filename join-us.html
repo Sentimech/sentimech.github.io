@@ -197,11 +197,11 @@ Phone:&nbsp;<a href="tel:+18444478687">+1 (844) 447-8687</a><br>Fax: <a href="fa
 <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-8" style="background-color: rgb(46, 46, 46); padding-top: 1.75rem; padding-bottom: 1.75rem;">
 
     <div class="container">
-        <p class="text-xs-center"></p><p>Copyright (c) 2022 Sentimech Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="terms-and-conditions" class="text-warning">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="privacy-policy" class="text-warning">Privacy Policy</a></p><p></p>
+        <p class="text-xs-center"></p><p> Company &copy; <span id="copyright-year"></span> Sentimech Inc. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="terms-and-conditions" class="text-warning">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="privacy-policy" class="text-warning">Privacy Policy</a></p><p></p>
     </div>
 </footer>
 
-
+  <script>document.getElementById("copyright-year").innerHTML = (/\d{4}/.exec(Date())[0]);</script>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
